@@ -1,0 +1,15 @@
+#app1{
+  height: 50vh;
+  width: 50vw;
+}
+#app1 .output{
+  font-size: 26px;
+  padding: 10px;
+}
+#app1 .actions{
+  padding: 20px;
+}
+#app1 button  {
+  padding: 4px 8px;
+  margin-right: 5px;
+}
